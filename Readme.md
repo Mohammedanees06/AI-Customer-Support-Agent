@@ -15,6 +15,9 @@ To build a **smart AI agent** that helps businesses automate customer support us
 - Business dashboard  
 - Ticketing system  
 
+
+<img width="1536" height="1024" alt="ai cust" src="https://github.com/user-attachments/assets/62e0fcdf-73d1-408f-ac79-f60f89cff864" />
+
 The aim is to solve **real-world problems** faced by small and medium businesses.
 
 ---
