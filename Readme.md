@@ -66,4 +66,13 @@ The aim is to solve **real-world problems** faced by small and medium businesses
 
 ---
 
-## 🏗️ Project Structure (Planned)
+## 🚀 Current Status
+✔ Idea finalized  
+✔ Architecture planned  
+✔ Tech stack decided  
+✔ Repository created  
+⬜ Coding starts next 
+
+---
+
+
